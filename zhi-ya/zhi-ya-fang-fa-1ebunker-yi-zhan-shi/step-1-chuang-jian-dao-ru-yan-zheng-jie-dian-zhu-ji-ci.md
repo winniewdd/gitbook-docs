@@ -15,16 +15,15 @@ Ebunker官方网站：[https://www.ebunker.io/](https://www.ebunker.io/)
 * ❗️❗️请断开网络，为保证助记词安全，尽量避免在联网状态下创建助记词。
 * 助记词是唯一可操作资产的私钥，助记词丢失或泄漏，资产将有丢失风险甚至无法找回。您可通过以下两种方式进行助记词及密钥文件生成。
 * 点击`Ebunker一站式节点质押`&#x20;
-*
 
-    <figure><img src="../../.gitbook/assets/home-zh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home-zh.png" alt=""><figcaption></figcaption></figure>
+
 * 点击`创建助记词`，记录保存助记词，建议记录在物理设备上。 ❗️❗️助记词是您取回质押本金的唯一凭证，请务必做好保密和备份，否则将会造成您质押本金的损失。 &#x20;
-*
 
-    <figure><img src="../../.gitbook/assets/create-key-zh.png" alt=""><figcaption></figcaption></figure>
-*
+<figure><img src="../../.gitbook/assets/create-key-zh.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/copy-key-zh.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/copy-key-zh.png" alt=""><figcaption></figcaption></figure>
+
 * 点击下一步，将助记词填入输入框内，进行验证。验证通过，助记词创建完成。
 
 #### 导入助记词
